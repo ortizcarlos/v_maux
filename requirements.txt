@@ -1,0 +1,9 @@
+twilio
+openai
+openai-whisper
+pydub
+python-multipart
+fastapi
+uvicorn
+jproperties
+pinecone-client
